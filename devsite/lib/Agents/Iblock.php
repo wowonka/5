@@ -1,7 +1,5 @@
 <?php
 
-// namespace Only\Site\Agents;
-
 
 class IblockAgent
 {
